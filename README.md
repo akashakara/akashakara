@@ -44,7 +44,7 @@ I am a Cross-Platform App Developer and Artificial Intelligence enthusiast.
 <img src="http://img.shields.io/badge/-API-430098?style=flat&logo=api&logoColor=white">
 <img src="http://img.shields.io/badge/-RPA-F1502F?style=flat&logo=rpa&logoColor=white">
 <img src="http://img.shields.io/badge/-PCB-cc6699?style=flat&logo=pcb&logoColor=white">
-<img src="http://img.shields.io/badge/-Vue%Native-4DB33D?style=flat&logo=vuenative&logoColor=white">
+<img src="http://img.shields.io/badge/-Vue%20Native-4DB33D?style=flat&logo=vuenative&logoColor=white">
 <img src="http://img.shields.io/badge/-linux-430098?style=flat&logo=linux&logoColor=white">
 <img src="http://img.shields.io/badge/-Java-F89820?style=flat&logo=java&logoColor=white"> 
 <img src="https://img.shields.io/badge/-C%20&%20C++-659ad2?style=flat&logo=c%2B%2B&logoColor=ffffff"> 
