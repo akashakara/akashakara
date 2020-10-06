@@ -6,13 +6,13 @@ I am a Cross-Platform App Developer and Artificial Intelligence enthusiast.
  
  🔭 I’m planning for a Project **AI based HealthCare**.
  
- 🌱 I’m currently learning  Kubernetes
+ 🌱 I’m currently learning  Kubernetes and API making.
  
  :books: I want to learn Competitive Programming 
  
  👯 I’m looking to collaborate for various open source projects.
  
- 🤔 I’m looking for help with [Github Blog Cards](https://github.com/akashakara/Github-Cards-External-Blogs).
+ 🤔 Desire to develop new possibilities in the field of AI and ML.
  
  💬 Ask me about App Development, Coding, and any Tech-related stuff.
 
