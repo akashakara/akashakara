@@ -2,10 +2,6 @@
 
 ---
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/akashakara/akashakara/master/Card.png" width="100%" title="Intro Card" alt="Intro Card">
-</p>
-
 I am a Cross-Platform App Developer and Artificial Intelligence enthusiast.
  
  🔭 I’m planning for a Project **AI based HealthCare**.
@@ -36,7 +32,7 @@ I am a Cross-Platform App Developer and Artificial Intelligence enthusiast.
 <img src="https://img.shields.io/badge/-Tableau-000000?style=flat&logo=tableau&logoColor=00c8ff">
 <img src="https://img.shields.io/badge/-MongoDB-4DB33D?style=flat&logo=mongodb&logoColor=FFFFFF">
 <img src="https://img.shields.io/badge/-Kotlin-e535ab?style=flat&logo=kotlin&logoColor=FFFFFF">
-<img src="https://img.shields.io/badge/-SQL-F29111?style=flat&logo=sql&logoColor=FFFFFF">
+<img src="https://img.shields.io/badge/-SQL-F29111?style=flat&logo=mysql&logoColor=FFFFFF">
 <img src="https://img.shields.io/badge/-Express.js-787878?style=flat">
 <img src="https://img.shields.io/badge/-Node.js-3C873A?style=flat&logo=Node.js&logoColor=white">
 <img src="https://img.shields.io/badge/-Arduino-FFA611?style=flat&logo=arduino&logoColor=FFFFFF">
@@ -46,12 +42,14 @@ I am a Cross-Platform App Developer and Artificial Intelligence enthusiast.
 <img src="http://img.shields.io/badge/-AWS-000000?style=flat&logo=aws&logoColor=FFFFFF">
 <img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white">
 <img src="http://img.shields.io/badge/-API-430098?style=flat&logo=api&logoColor=white">
-<img src="http://img.shields.io/badge/-RPA-black?style=flat&logo=rpa&logoColor=white">
-<img src="http://img.shields.io/badge/-PCB-black?style=flat&logo=pcb&logoColor=white">
-<img src="http://img.shields.io/badge/-Vue%Native-black?style=flat&logo=vuenative&logoColor=white">
-<img src="http://img.shields.io/badge/-linux-black?style=flat&logo=linux&logoColor=white">
-<img src="http://img.shields.io/badge/-Java-F89820?style=flat&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/-C%20&%20C++-659ad2?style=flat&logo=c%2B%2B&logoColor=ffffff"> <img src="https://img.shields.io/badge/-Python-black?style=flat&logo=python&logoColor=white"> 
-<img src="https://img.shields.io/badge/-PHP-black?style=flat&logo=php&logoColor=white"> 
+<img src="http://img.shields.io/badge/-RPA-?style=flat&logo=rpa&logoColor=white">
+<img src="http://img.shields.io/badge/-PCB-?style=flat&logo=pcb&logoColor=white">
+<img src="http://img.shields.io/badge/-Vue%Native-?style=flat&logo=vuenative&logoColor=white">
+<img src="http://img.shields.io/badge/-linux-?style=flat&logo=linux&logoColor=white">
+<img src="http://img.shields.io/badge/-Java-F89820?style=flat&logo=java&logoColor=white"> 
+<img src="https://img.shields.io/badge/-C%20&%20C++-659ad2?style=flat&logo=c%2B%2B&logoColor=ffffff"> 
+<img src="https://img.shields.io/badge/-Python-?style=flat&logo=python&logoColor=ffffff"> 
+<img src="https://img.shields.io/badge/-PHP-?style=flat&logo=php&logoColor=ffffff"> 
 
 ---
 
@@ -73,9 +71,7 @@ Check for a detailed stats here :point_right: [Sourcerer](https://sourcerer.io/a
 
 
 ---
-### You can checkout my blogs :loudspeaker: 
 
-[![Akash Singh's Blog Cards](https://github-cards-external-blogs.akashakara.vercel.app/getMediumBlogs?username=akashxxvi&type=vertical)](https://medium.com/@akashxxvi)
 
 [Add your blogs to your github profile using my Github Blog Cards](https://github.com/akashakara/Github-Cards-External-Blogs) 
 
