@@ -8,7 +8,7 @@
 
 I am a Cross-Platform App Developer and Artificial Intelligence enthusiast
  
- 🔭 I’m planning for a Project **HealthCare**.
+ 🔭 I’m planning for a Project **AI based HealthCare**.
  
  🌱 I’m currently learning  Kubernetes
  
@@ -64,7 +64,7 @@ Check for a detailed stats here :point_right: [Sourcerer](https://sourcerer.io/a
 [<img align="left" alt="akash" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="akashxxvi | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />][medium]
 [<img align="left" alt="akash_akara | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="akashakara | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
 [<img align="left" alt="akashxxvi | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br/>
@@ -73,7 +73,7 @@ Check for a detailed stats here :point_right: [Sourcerer](https://sourcerer.io/a
 ---
 ### You can checkout my blogs :loudspeaker: 
 
-[![Akash Singh's Blog Cards](https://github-cards-external-blogs.akashakara.vercel.app/getMediumBlogs?username=Souravdey777&type=vertical)](https://medium.com/@akashxxvi)
+[![Akash Singh's Blog Cards](https://github-cards-external-blogs.akashakara.vercel.app/getMediumBlogs?username=akashxxvi&type=vertical)](https://medium.com/@akashxxvi)
 
 [Add your blogs to your github profile using my Github Blog Cards](https://github.com/akashakara/Github-Cards-External-Blogs) 
 
@@ -83,7 +83,7 @@ Let's connect 👨‍💻 and forge the future together.😁✌
 
 **Check the Repositories and don't forget to give a star.** 👇
 
-:star: From [Souravdey777](https://github.com/akashakara)
+
 
 [website]: https://sourcerer.io/akashakara
 [twitter]: https://twitter.com/akash_akara
