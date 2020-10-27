@@ -8,13 +8,13 @@ I am a Cross-Platform App Developer and Artificial Intelligence enthusiast.
  
  🌱 I’m currently learning  Kubernetes and API making.
  
- :books: I want to learn Competitive Programming 
+ :books: I want to learn Competitive Programming. 
  
  👯 I’m looking to collaborate for various open source projects.
  
  🤔 Desire to develop new possibilities in the field of AI and ML.
  
- 💬 Ask me about App Development, Coding, and any Tech-related stuff.
+ 💬 Ask me about App Development,Web Development, Coding, and any Tech-related stuff.
 
 
 ![Profile views](https://gpvc.arturio.dev/akashakara)  <img src="https://img.shields.io/github/followers/akashakara?label=Follow" style=" float:left, margin-right:10px" />
