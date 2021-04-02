@@ -70,10 +70,7 @@ Check for a detailed stats here :point_right: [Sourcerer](https://sourcerer.io/a
 <br/>
 
 
----
 
-
-[Add your blogs to your github profile using my Github Blog Cards](https://github.com/akashakara/Github-Cards-External-Blogs) 
 
 ---
 
