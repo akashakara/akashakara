@@ -2,7 +2,7 @@
 
 ---
 
-I am a Cross-Platform App Developer and Artificial Intelligence enthusiast.
+I am a Cross-Platform App Developer and Machine Learning enthusiast.
  
  🔭 I’m planning for a Project **AI based HealthCare**.
  
