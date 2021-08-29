@@ -17,8 +17,6 @@ I am a Cross-Platform App Developer and Machine Learning enthusiast.
  💬 Ask me about App Development,Web Development, Coding, and any Tech-related stuff.
 
 
-![Profile views](https://gpvc.arturio.dev/akashakara)  <img src="https://img.shields.io/github/followers/akashakara?label=Follow" style=" float:left, margin-right:10px" />
-
 
 ---
 
