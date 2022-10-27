@@ -49,17 +49,9 @@ I am a Cross-Platform App Developer and Machine Learning enthusiast.
 <img src="https://img.shields.io/badge/-Python-E34F26?style=flat&logo=python&logoColor=ffffff"> 
 <img src="https://img.shields.io/badge/-PHP-black?style=flat&logo=php&logoColor=ffffff"> 
 
----
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=akashakara&show_icons=true&hide_border=true)
-
-Check for a detailed stats here :point_right: [Sourcerer](https://sourcerer.io/akashakara)
-
----
 
 
 ### You can find in me in the web 🌍
-[<img align="left" alt="akash" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="akashxxvi | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />][medium]
 [<img align="left" alt="akash_akara | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="akashxxvi | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
@@ -77,7 +69,6 @@ Let's connect 👨‍💻 and forge the future together.😁✌
 
 
 
-[website]: https://sourcerer.io/akashakara
 [twitter]: https://twitter.com/akash_akara
 [instagram]: https://www.instagram.com/akashxxvi/
 [medium]: https://medium.com/@akashxxvi/
