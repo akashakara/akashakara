@@ -2,11 +2,11 @@
 
 ---
 
-I am a Cross-Platform App Developer and Machine Learning enthusiast.
+I am a Full Stack Developer and Machine Learning enthusiast.
  
  🔭 I’m planning for a Project **AI based HealthCare**.
  
- 🌱 I’m currently learning  Kubernetes and API making.
+ 🌱 I’m currently learning  Kubernetes and Go.
  
  :books: I want to learn Competitive Programming. 
  
@@ -14,7 +14,7 @@ I am a Cross-Platform App Developer and Machine Learning enthusiast.
  
  🤔 Desire to develop new possibilities in the field of AI and ML.
  
- 💬 Ask me about App Development,Web Development, Coding, and any Tech-related stuff.
+ 💬 Ask me about App Development,Web Development, Coding, Server and any Tech-related stuff.
 
 
 
