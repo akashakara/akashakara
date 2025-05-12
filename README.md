@@ -1,5 +1,6 @@
 # Hey, I'm Akash! 👋
 
+```javascript
 // Hey there 👋 I'm Akash
 
 const akash = {
@@ -51,6 +52,7 @@ class DeveloperAkash {
 
 const devAkash = new DeveloperAkash();
 devAkash.codeLife();
+
 
 
 ### 🌐 Let's Connect
