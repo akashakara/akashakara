@@ -52,8 +52,7 @@ class DeveloperAkash {
 const devAkash = new DeveloperAkash();
 devAkash.codeLife();
 
-
-
+```
 
 ---
 
