@@ -2,19 +2,19 @@
 
 ```javascript
 
-const akash = {
-    title: "Full Stack Developer & Machine Learning Enthusiast",
+const akash_singh = {
+    title: "Full Stack Developer & Cloud Infrastructure Enthusiast",
     focus: ["AI-based HealthCare", "Open Source Contributions", "Learning Kubernetes & Go"],
     interests: ["AI & ML Research", "Competitive Programming", "Cloud & DevOps"],
-    askMeAbout: ["App Development", "Web Development", "API Development", "Server Management", "Machine Learning"]
+    askMeAbout: ["App Development", "Web Development", "API Development", "Server Management", "Database Management"]
 };
 
 const skills = {
-    languages: ["C++", "Python", "JavaScript", "PHP", "Java", "Go"],
-    frameworks: ["Spring Boot", "Angular", "React.js", "Express.js", "Flask", "FastAPI", "Django"],
-    databases: ["MySQL", "PostgreSQL", "MongoDB", "Firebase", "DynamoDB"],
-    devopsCloud: ["AWS", "GCP", "Docker", "Kubernetes", "Heroku", "Linux"],
-    tools: ["Git", "Arduino", "Tableau", "VS Code", "API Development", "Figma"]
+    languages: ["C/C++", "Python", "JavaScript", "PHP", "Java", "TypeScript"],
+    frameworks: ["Spring Boot", "Angular", "React.js", "Express.js", "Flask", "FastAPI", "Django","Laravel"],
+    databases: ["MySQL", "PostgreSQL", "MongoDB", "Firebase", "DynamoDB","Redis"],
+    devopsCloud: ["AWS", "GCP", "Docker", "Kubernetes", "VPS", "Linux"],
+    tools: ["Git", "NginX", "Tableau", "Postman", "NetData", "Server Admin","NewRelic"]
 };
 
 class DeveloperAkash {
@@ -26,7 +26,7 @@ class DeveloperAkash {
     codeLife() {
         while (this.lovesCoding) {
             this.open("Browser");
-            this.search("Stack Overflow");
+            this.search("Stack Overflow ? true : 'Documentation'");
             this.copyPaste("Code into IDE");
             this.consoleLog("Feeling like a Pro Developer 🚀");
         }
