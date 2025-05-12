@@ -54,20 +54,15 @@ devAkash.codeLife();
 
 ```
 
----
-
-### 📫 Connect with me on
-[<img alt="Medium" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />][medium]  
-[<img alt="Twitter" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]  
-[<img alt="Instagram" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]  
-
----
+### 📫 Connect with me on [<img alt="LinkedIn" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin] [<img alt="Twitter" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter] [<img alt="Instagram" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]  
 
 > 🚀 Let's connect, collaborate, and create the future together!  
 > ⭐ Don't forget to check out my repositories and drop a star if you like them.
 
 [twitter]: https://twitter.com/akash_akara  
 [instagram]: https://www.instagram.com/akashxxvi/  
-[medium]: https://medium.com/@akashxxvi/  
+[linkedin]: https://www.linkedin.com/in/akashxxvi/
+
+
 
 
