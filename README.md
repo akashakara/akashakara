@@ -1,7 +1,6 @@
 # Hey, I'm Akash! 👋
 
 ```javascript
-// Hey there 👋 I'm Akash
 
 const akash = {
     title: "Full Stack Developer & Machine Learning Enthusiast",
@@ -55,21 +54,21 @@ devAkash.codeLife();
 
 
 
-### 🌐 Let's Connect
-
-[<img align="left" alt="Akash on Medium" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />][medium]
-[<img align="left" alt="Akash on Twitter" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="Akash on Instagram" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-<br><br>
 
 ---
 
-⚡ _Let's collaborate and create something amazing!_  
-⭐ Check my repositories and don't forget to leave a star!
+### 📫 Connect with me on
+[<img alt="Medium" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />][medium]  
+[<img alt="Twitter" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]  
+[<img alt="Instagram" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]  
 
 ---
 
-[twitter]: https://twitter.com/akash_akara
-[instagram]: https://www.instagram.com/akashxxvi/
-[medium]: https://medium.com/@akashxxvi/
+> 🚀 Let's connect, collaborate, and create the future together!  
+> ⭐ Don't forget to check out my repositories and drop a star if you like them.
+
+[twitter]: https://twitter.com/akash_akara  
+[instagram]: https://www.instagram.com/akashxxvi/  
+[medium]: https://medium.com/@akashxxvi/  
+
+
